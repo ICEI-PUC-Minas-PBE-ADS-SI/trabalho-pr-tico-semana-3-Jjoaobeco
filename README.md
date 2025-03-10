@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:João Vitor Vieira Guedes
+- Matricula:00889182
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Página inicial de um site de receitas com algumas receitas na homepage e âncoras para as páginas de receitas.
 
 
 ## Print do esboço criada
