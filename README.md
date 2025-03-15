@@ -21,4 +21,6 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="/imagens/print1.png">
+
+<img src="/imagens/print2.png">
