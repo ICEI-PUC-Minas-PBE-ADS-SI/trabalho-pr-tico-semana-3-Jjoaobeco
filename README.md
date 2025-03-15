@@ -10,12 +10,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: João Vitor Vieira Guedes
 - Matricula: 00889182
+- Nome: João Vitor Vieira Guedes
+- Matricula: 00889182
 - Proposta de projeto escolhida: Diretório de Receitas
 - Breve descrição sobre seu projeto: Página inicial de um site de receitas com algumas receitas na homepage e âncoras para as páginas de receitas.
 
 
 ## Print do esboço criada
 
+<img src="/imagens/Página-inicial.png">
 <img src="/imagens/Página-inicial.png">
 
 
