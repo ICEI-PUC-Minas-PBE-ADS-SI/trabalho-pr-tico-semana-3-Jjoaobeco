@@ -107,4 +107,22 @@ h1 {
         width: 90%;
         padding: 15px;  
     }
+
+    @media screen and (max-width:414px){
+        header{
+            width: 100%
+        }
+        
+        .botoes ul li a{
+            text-decoration: none;
+            color: black;
+            padding: 5px;
+            background-color: rgb(215, 237, 148);
+            border-radius: 20%;
+        }
+        .pesquisa{
+        
+            display: none;
+        }
+    }
 }

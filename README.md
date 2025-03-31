@@ -1,29 +1,22 @@
-# Trabalho Prático - Semana 03
+# Trabalho Prático - Semana 04 e 05
 
-Dessa vez, vamos escolher uma proposta de projeto para trabalhar. Na [lista de propostas de projetos](propostas-projetos.md), escolha um dentre as alternativas.
+Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
 
-Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
+Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto no celular quanto no desktop, entendendo também como é o processo gradativo e colaborativo de desenvolvimento de um software, registrando cada etapa no histórico de commits do repositório do git/GitHub..
 
 **IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
 ## Informações Gerais
 
-- Nome: João Vitor Vieira Guedes
-- Matricula: 00889182
-- Nome: João Vitor Vieira Guedes
-- Matricula: 00889182
-- Proposta de projeto escolhida: Diretório de Receitas
-- Breve descrição sobre seu projeto: Página inicial de um site de receitas com algumas receitas na homepage e âncoras para as páginas de receitas.
+- Nome:
+- Matricula:
+- Proposta de projeto escolhida:
+- Breve descrição sobre seu projeto:
 
+## Print da versão responsiva com CSS puro
 
-## Print do esboço criada
+<<  COLOQUE A IMAGEM AQUI >>
 
-<img src="/imagens/Página-inicial.png">
+## Print da versão responsiva com Bootstrap
 
-
-
-## Print da home-page criada
-
-<img src="/imagens/print1.png">
-
-<img src="/imagens/print2.png">
+<<  COLOQUE A IMAGEM AQUI >>
